@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gob'beat", "Gob'beat.csproj", "{F7F8995F-C6BA-F547-D8D5-24B48BFA623E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gob'beat.Editor", "Gob'beat.Editor.csproj", "{330D11C3-985A-6B4D-38E3-ADE0993473D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F8995F-C6BA-F547-D8D5-24B48BFA623E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F8995F-C6BA-F547-D8D5-24B48BFA623E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F8995F-C6BA-F547-D8D5-24B48BFA623E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F8995F-C6BA-F547-D8D5-24B48BFA623E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330D11C3-985A-6B4D-38E3-ADE0993473D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330D11C3-985A-6B4D-38E3-ADE0993473D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330D11C3-985A-6B4D-38E3-ADE0993473D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330D11C3-985A-6B4D-38E3-ADE0993473D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
